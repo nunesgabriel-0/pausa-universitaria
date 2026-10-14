@@ -1,0 +1,1 @@
+Interações e funcionalidades futuras.
