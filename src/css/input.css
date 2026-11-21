@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+.navegador{
+    width: 100%;
+    display: flex;
+    padding: 10px 15px;
+    gap: 20px;
+    background-color: #245c4576;
+    border-radius: 12px;
+    backdrop-filter: blur(20px);
+}
+
+.colorBtt{
+    background-color: #245C45;
+    border-radius: 12px;
+    opacity: .8;
+    transition:all .3s;
+   
+}
+
+button:hover{
+opacity: 1;
+}
+
+.s1{
+    height: 100vh;
+}
+
+.card{
+    width: 31%;
+    padding: 1%;    
+    gap: 1%;
+    margin: 2px 2px 2px;
+    background-color: #245c45;
+    opacity: .8;
+    transition: all .3s;
+    &:hover{
+        opacity: 1;
+    }
+   
+}
+
+h3{
+    font-size: 24px;
+    font-weight: 500;
+    margin: 20px 0px 4px;
+}
+
+a{
+    color: white;
+    opacity: .7;
+    transition: all .3s;
+
+    &:hover{
+        opacity: 1;
+    }
+}
+
+html{
+    scroll-behavior: smooth;
+}
+ .bg{
+    background-color:#f7f7e4;
+    background-image: url("../img/background-site.png");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+
+ @theme {
+    --color-verde-escuro: #245C45;
+    --color-verde-medio: #3F8061;
+    --color-verde-salvia: #8DBB9C;
+    --color-verde-claro: #E7F0E8;
+    --color-off-white: #FAFAF5;
+}
+
+
+@utility bg-size-175pct { /*desktop*/
+  background-size: 175%;
+}
+ 
+@utility bg-size-195pct {  /*mobile*/
+  background-size: 195%;
+}
+
+@utility bg-position {
+  background-position: 46% 4%;
+}
+
+@utility bg-position--mobile {
+  background-position: top 25% center;
+}
+
+
