@@ -23,3 +23,5 @@ A partir dessa base, foram selecionadas tonalidades complementares, como verde-s
 Também foram consideradas cores suaves, como lilás e amarelo em tonalidades claras, para complementar a identidade visual e evitar que o ambiente se tornasse visualmente monótono. Esses tons ajudam a transmitir acolhimento, leveza e positividade, além de permitir a diferenciação de elementos e seções do site sem comprometer a harmonia visual.
 
 Os tons neutros, como o off-white, foram utilizados para proporcionar contraste, facilitar a leitura e deixar o conteúdo mais organizado. Dessa forma, a combinação entre as cores institucionais da UFFS e as tonalidades complementares busca equilibrar a identidade acadêmica do projeto com uma aparência acolhedora e acessível, adequada à temática da saúde mental e ao público universitário.
+
+https://color.adobe.com/br/create/color-wheel?color-palette=245C45%2C3F8061%2C8DBB9C%2CE7F0E8%2CFAFAF5&color-palette-name=Pausa+Universit%C3%A1ria
