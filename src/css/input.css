@@ -59,12 +59,25 @@ a{
 html{
     scroll-behavior: smooth;
 }
- .bg{
-    background-color:#f7f7e4;
-    background-image: url("../img/background-site.png");
-    background-size: cover;
+
+body {
+    min-height: 100vh;
+    background-color: #f7f7e4;
+    background-image: url("../img/Bg-mobile.png");
+    background-size: 100% auto;
     background-position: center top;
     background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+
+@media (min-width: 1280px) {
+    body {
+        background-image: url("../img/background-site.png");
+        background-size: cover;
+        background-position: center top;
+        background-repeat: no-repeat;
+    }
 }
 
 
